@@ -104,7 +104,6 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 ---
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anurag-00008&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-00008&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
