@@ -73,7 +73,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 - Built role-based access control separating admin and end-user privileges, reducing unauthorized access vectors
 - Covered core banking modules: authentication, fund transfers, transaction history, loan management
 
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/online-banking-system)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/E-Banking)
 
 ---
 
@@ -86,7 +86,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 - Integrated MySQL with optimized CRUD operations ensuring data consistency across high-frequency transactions
 - Implemented secure session management and user authentication flow for a seamless shopping experience
 
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/ecommerce-java)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/E-Commerce)
 
 ---
 
@@ -99,7 +99,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 - Leveraged raw TCP sockets for efficient bidirectional data transfer with broadcast messaging to all active sessions
 - Modularized client-server components for extensibility, with planned GUI layer integration
 
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/java-chat-app)
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/java-chat-application)
 
 ---
 
