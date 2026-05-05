@@ -1,20 +1,20 @@
-<h1 align="center">Anurag Singh</h1>
+# Anurag Singh
 
-<p align="center">
-  <strong>Backend & Full-Stack Engineer · Java · Systems Thinker · Building for Scale</strong>
-</p>
+**Backend & Full-Stack Engineer · Java · Systems Thinker · Building for Scale**
 
-<p align="center">
-  <a href="https://linkedin.com/in/anurag-singh0809/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:aec.it.anuragsingh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/anurag-00008"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-singh0809/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aec.it.anuragsingh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anurag-00008)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anurag+Singh+%F0%9F%91%8B;Backend+%26+Full-Stack+Engineer;Java+%7C+Systems+Thinker;Building+for+Scale)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-I'm a B.Tech Information Technology student at Asansol Engineering College with a focus on backend systems, full-stack web development, and distributed computing. I build secure, production-grade applications using Java EE — and I care deeply about clean architecture, not just code that works.
+I'm a B.Tech Information Technology student at **Asansol Engineering College** with a focus on backend systems, full-stack web development, and distributed computing. I build secure, production-grade applications using Java EE — and I care deeply about clean architecture, not just code that works.
 
 - 🎯 Targeting **Software Engineering / Backend roles** (Internship & New Grad)
 - 📚 Currently deepening expertise in **System Design, Spring Boot, and Cloud-native patterns**
@@ -22,7 +22,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -34,7 +34,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 
 **Backend**
 
-![Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -48,7 +48,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -61,61 +61,20 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 
 ---
 
-## Featured Projects
+## 📊 GitHub Stats
 
-### 🏦 Online Banking Management System
-> A secure, full-stack net banking platform replicating real-world banking workflows with strict role-based access control.
-
-**Tech:** Java · JSP · Servlets · Oracle DB · JDBC · MVC Architecture
-
-- Implemented JDBC Prepared Statements to eliminate SQL injection vulnerabilities across all transaction endpoints
-- Designed normalized Oracle DB schemas ensuring ACID compliance under concurrent multi-user operations
-- Built role-based access control separating admin and end-user privileges, reducing unauthorized access vectors
-- Covered core banking modules: authentication, fund transfers, transaction history, loan management
-
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/E-Banking)
-
----
-
-### 🛒 Java-Based E-Commerce Web Application
-> A production-grade e-commerce platform with end-to-end order lifecycle management and secure session handling.
-
-**Tech:** Java · JSP · Servlets · MySQL · JDBC · HTML/CSS/JS
-
-- Applied MVC architecture with server-side input validation, reducing cross-layer coupling by an estimated 40%
-- Integrated MySQL with optimized CRUD operations ensuring data consistency across high-frequency transactions
-- Implemented secure session management and user authentication flow for a seamless shopping experience
-
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/E-Commerce)
-
----
-
-### 💬 Java Multi-Client Chat Application
-> A real-time, multi-client chat server built on low-level TCP socket programming with a multithreaded architecture.
-
-**Tech:** Java · TCP Socket Programming · Multithreading
-
-- Built a multithreaded server where each client connection runs on an independent thread, enabling non-blocking concurrent message processing
-- Leveraged raw TCP sockets for efficient bidirectional data transfer with broadcast messaging to all active sessions
-- Modularized client-server components for extensibility, with planned GUI layer integration
-
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/anurag-00008/java-chat-application)
-
----
-
-## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-00008&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-00008&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-00008&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-00008&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anurag-00008&theme=github-dark-blue&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=anurag-00008&theme=github-dark-blue&hide_border=true" width="70%" />
 </p>
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Tech — Information Technology** | Asansol Engineering College *(2023 – 2027)*
 
@@ -123,7 +82,7 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 
 ---
 
-## Currently Learning
+## 📖 Currently Learning
 
 - **Spring Boot & Spring Security** — production-grade Java backend frameworks
 - **System Design** — scalability, caching, load balancing, and database sharding patterns
@@ -132,16 +91,11 @@ I'm a B.Tech Information Technology student at Asansol Engineering College with 
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/anurag-singh0809/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:aec.it.anuragsingh@gmail.com"><img src="https://img.shields.io/badge/Email-aec.it.anuragsingh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-singh0809/)
+[![Email](https://img.shields.io/badge/Email-aec.it.anuragsingh%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aec.it.anuragsingh@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anurag-00008&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=anurag-00008&style=flat-square&color=blue)](https://github.com/anurag-00008)
